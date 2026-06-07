@@ -1,0 +1,3 @@
+[submodule "external/LightGTS"]
+	path = external/LightGTS
+	url = https://github.com/decisionintelligence/LightGTS
